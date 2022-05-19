@@ -20,7 +20,7 @@ public class DashboardPage {
 			
 			System.out.print("DashBoard");
 			
-			
+			System.out.print(("Git TEST1"));
 		}
 			
 		
